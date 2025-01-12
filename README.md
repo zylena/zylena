@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, Lena's here 👋
+
+🌱 I'm a Year 2 Software Engineering student.
 
 <!--
 **zylena/zylena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
